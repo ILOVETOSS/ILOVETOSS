@@ -4,7 +4,7 @@
 🚀 알고리즘, 서버 개발, 그리고 컴퓨터 구조에 대해 꾸준히 공부 중입니다.  
 🧑‍💻 새로운 기술을 배우고 직접 만들어보는 과정에 큰 즐거움을 느낍니다.  
 💡 협업을 통해 함께 성장할 수 있는 환경을 선호합니다.  
-
+⚡ 취미 : 수영🏊🏻‍♂️, 러닝🏃🏻, 기술 탐구 📚
 
 
 ## 🌐 Socials:
@@ -23,11 +23,11 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Wahab-Khan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Wahab-Khan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wahab-Khan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ILOVETOSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ILOVETOSS&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ILOVETOSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Wahab-Khan&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ILOVETOSS&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
