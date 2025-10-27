@@ -4,8 +4,6 @@
 🚀 알고리즘, 서버 개발, 그리고 컴퓨터 구조에 대해 꾸준히 공부 중입니다.  
 🧑‍💻 새로운 기술을 배우고 직접 만들어보는 과정에 큰 즐거움을 느낍니다.  
 💡 협업을 통해 함께 성장할 수 있는 환경을 선호합니다.  
-⚡ 취미 : 수영🏊🏻‍♂️, 러닝🏃🏻, 기술 탐구 📚
-
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/website?url=https://wahab-khan.github.io/Abdul-Wahab-Khan/&logoColor=white)](https://wahab-khan.github.io/Abdul-Wahab-Khan/) 
@@ -14,12 +12,13 @@
 
 
 # 💻 Tech Stack:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 # 📊 GitHub Stats:
